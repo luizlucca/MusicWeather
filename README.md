@@ -5,7 +5,7 @@ Micro-Servicos:
  - Micro-Weather: Micro Servico para consulta de musicas utizando OpenWeather e HGBrasil
  - Micro-Music-Weather: Micro Servico para, dada uma cidade ou lat/lng retornar uma lista de musicas, por categoria, baseado na temperatura
 
-Passor para utilizar a api:
+Passo para utilizar a api:
 
 Iniciar Micro-Music:
  -Entrar a pasta Micro-Music e executar: ./gradlew bootRun
